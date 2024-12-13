@@ -10,3 +10,6 @@ a.btn.btn-primary,
     border-color: #9353FF;
     text-decoration-color: white;
 }
+.price{
+    font-weight: bold;
+}
