@@ -4,3 +4,9 @@
 div.facilities{
     width: 325px;
 }
+a.btn.btn-primary,
+#button-addon2 {
+    background-color: #9353FF;
+    border-color: #9353FF;
+    text-decoration-color: white;
+}
